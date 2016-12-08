@@ -1,0 +1,11 @@
+        There are a wide variety of artificial itelligences using in diverse industries and fields.  All of those systems are divided into two types of AI fundamental: the mechanical procedures and self-learning processors. The majority of robots are based on the AI of mechanism and the rest minorities are using the principle of machine-learning.
+        In terms of mechanical system, all kinds of orders are prior programs used to deal with different conditions and make out related decisions, coordinated executions, etc. Compared with machine-learning, single mechanical fundametal robotics could be traditional.
+        As for machine-learning, we should look the machine as a child. The two basic methods for a kid to learn are imitation and creation. For us human, imitations are almost full of the whole life of every people and only a few of them has the ability of creations, which is a kind of innovative skills.
+        According to the above paragraphs, an important thinking regarding on curve recognition will be delineated as below:
+        1, One type of pattern curve must be definited accurately through the specified algorithm. The other type of pattern curve could be existed due to man-made or natural formed.
+        2, The pattern curve need to be formatted via some smooth functions( such as MA, EMA, DMA, SMA, etc.). 
+        3, There is an array data of the smoothed pattern curve and the sample data elements produced afterward.
+        4, For the curve which is to be compared with the pattern curve, it also need to be smoothed and then generates a sample data elements array.
+         5, In this step, a new array is to be generated using the above two types of arrays. That is, to subtract the compared sample from the pattern sample and save the differences values to the generated array.
+        6, Finally, to check the absolute value of every element in the array and find whether it is in a defined range or not. In condition of non   out range value, it concludes that the two curves are similar, other wise it means different curves. A crucial definition is 'the degree of similarity' , which is as a range standard for the absolute differences values of the array and must be configured as one of the important parameters.
+        Rom Bo on 2016.11.30.
